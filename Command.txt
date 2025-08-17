@@ -4,3 +4,8 @@ git add <filename>
 git rm --cache <filename>
 git commit -m "message"
 git restore <filename>
+
+
+git remote -versiongit push orgin master
+git clone <Clone URL>
+fork
